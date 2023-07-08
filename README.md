@@ -10,9 +10,9 @@ class SoftwareDeveloper:
         self.role = "Software Developer"
         self.language_spoken = ["es_CO", "en_US"]
         self.code = [
-            codding.Python,
-            codding.Php,
-            codding.front,
+            codding.python,
+            codding.php,
+            codding.front
         ]
         self.tools = ["Angular", "Bootstrap"]
         self.interests = [
@@ -30,7 +30,7 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
-## 🔧 Technologies & Tools
+## 🔧 Tools
 
 ![Static Badge](https://img.shields.io/badge/Windows-OS-gray?logo=windows)
 ![Static Badge](https://img.shields.io/badge/Python-Code-gray?logo=python)
