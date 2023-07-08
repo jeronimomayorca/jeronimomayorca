@@ -1,7 +1,3 @@
-### Hi there 👋
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
 from skills import codding
 from utils import tools
 
