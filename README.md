@@ -1,16 +1,23 @@
 ### Hi there 👋
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-<!--
-**jeronimomayorca/jeronimomayorca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+from skills import codding
+from utils import tools
 
-Here are some ideas to get you started:
+class SoftwareDeveloper:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def __init__(self):
+        self.name = "Jeronimo Mayorca Arias"
+        self.role = "Software Developer"
+        self.language_spoken = ["es_CO", "en_US"]
+        self.code = [codding.Python, codding.Javascript, codding.Php, codding.Java, codding.VTL, codding.front,]
+        self.tools = [tools.Angular, tools.Bootstrap]
+        self.interests = ["Learn", "Programming", "Tech", "Best practices"]
+
+    def say_hi(self):
+        print("Thanks for reading this, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
