@@ -38,4 +38,4 @@ me.say_hi()
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 
-<a href="https://github.com/jeronimomayorca"><img src="https://github-readme-stats.vercel.app/api?username=alegoru&hide_border=true&show_icons=true" alt="jeronimo's github stats"></a>
+<a href="https://github.com/jeronimomayorca"><img src="https://github-readme-stats.vercel.app/api?username=jeronimomayorca&hide_border=true&show_icons=true%20api" alt="jeronimo's github stats"></a>
