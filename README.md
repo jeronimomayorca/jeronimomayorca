@@ -1,5 +1,6 @@
-```python
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=jeronimomayorca.jeronimomayorca)
 
+```python
 from skills import codding
 from utils import tools
 
@@ -30,3 +31,11 @@ class SoftwareDeveloper:
 me = SoftwareEngineer()
 me.say_hi()
 ```
+
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+
+<a href="https://github.com/jeronimomayorca"><img src="https://github-readme-stats.vercel.app/api?username=alegoru&hide_border=true&show_icons=true" alt="jeronimo's github stats"></a>
