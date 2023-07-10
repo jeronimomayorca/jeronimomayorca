@@ -9,11 +9,16 @@ class SoftwareDeveloper:
         self.name = "Jeronimo Mayorca Arias"
         self.role = "Software Developer"
         self.language_spoken = ["es_CO", "en_US"]
-        self.code = [
-            codding.Python,
-            codding.Php,
-            codding.Front
+        self.code_frontend = [
+            "Angular",
+            "Bootstrap"
         ]
+
+        self.code_backend = [
+            "Python",
+            "PHP"
+        ]
+
         self.tools = ["Angular", "Bootstrap"]
         self.interests = [
             "Learn",
