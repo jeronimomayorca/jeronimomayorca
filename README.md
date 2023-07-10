@@ -7,8 +7,11 @@ class SoftwareDeveloper:
 
     def __init__(self):
         self.name = "Jeronimo Mayorca Arias"
+
         self.role = "Software Developer"
+
         self.language_spoken = ["es_CO", "en_US"]
+
         self.code_frontend = [
             "Angular",
             "Bootstrap"
@@ -19,7 +22,6 @@ class SoftwareDeveloper:
             "PHP"
         ]
 
-        self.tools = ["Angular", "Bootstrap"]
         self.interests = [
             "Learn",
             "Programming",
