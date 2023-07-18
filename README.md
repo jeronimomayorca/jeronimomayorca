@@ -13,9 +13,9 @@ class SoftwareDeveloper:
         self.language_spoken = ["es_CO", "en_US"]
 
         self.code_frontend = [
+            "Django",
             "Angular",
-            "Bootstrap",
-            "Django"
+            "Bootstrap"
         ]
 
         self.code_backend = [
