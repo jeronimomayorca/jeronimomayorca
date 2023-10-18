@@ -15,13 +15,13 @@ class SoftwareDeveloper:
         self.code_frontend = [
             "Django",
             "Angular",
-            "Bootstrap"
+            "Bootstrap",
+            "Frappe"
         ]
 
         self.code_backend = [
             "Python",
-            "PHP"
-            "JavaScript"
+            "Java"
         ]
 
         self.interests = [
