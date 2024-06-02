@@ -29,15 +29,14 @@ class SoftwareDeveloper:
         ]
 
         self.interests = [
-            "Learn",
+            "Software Engineering",
             "Coding",
             "Tech",
             "Best practices",
-            "AWS"
         ]
 
     def say_hi(self):
-        print("Thanks for reading this, hope you find some of my work interesting.")
+        print("Thanks for reading this, hope you find some of my work interesting :) ")
 
 me = SoftwareDeveloper()
 me.say_hi()
