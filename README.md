@@ -21,10 +21,11 @@ class SoftwareDeveloper:
         ]
 
         self.code_backend = [
-            "Python",
+            "Java"
+            "PHP",
             "JavaScript",
             "Typescript",
-            "Java"
+            "Python",
         ]
 
         self.interests = [
