@@ -13,11 +13,11 @@ class SoftwareDeveloper:
         self.language_spoken = ["es_CO", "en_US"]
 
         self.code_frontend = [
-            "Angular",
-            "Django",
-            "Frappe Framework",
-            "Tailwind"
             "Bootstrap",
+            "Tailwind"
+            "Frappe Framework",
+            "Django",
+            "Angular",
         ]
 
         self.code_backend = [
