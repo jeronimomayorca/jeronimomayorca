@@ -18,6 +18,7 @@ class SoftwareDeveloper:
             "Frappe Framework",
             "Django",
             "Angular",
+            "React"
         ]
 
         self.code_backend = [
