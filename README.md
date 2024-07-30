@@ -47,8 +47,8 @@ me.say_hi()
 ## 🔧 Tools
 
 ![Static Badge](https://img.shields.io/badge/Python-yellow?logo=python)
-![Static Badge](https://img.shields.io/badge/TypeScript-gray?logo=typescript)
-![Static Badge](https://img.shields.io/badge/JavaScript-gray?logo=javascript)
+![Static Badge](https://img.shields.io/badge/TypeScript-white?logo=typescript)
+![Static Badge](https://img.shields.io/badge/JavaScript-blue?logo=javascript)
 ![Static Badge](https://img.shields.io/badge/Django-green?logo=django)
 ![Static Badge](https://img.shields.io/badge/Flask-gray?logo=flask)
 ![Static Badge](https://img.shields.io/badge/Angular-red?logo=angular)
