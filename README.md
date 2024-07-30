@@ -15,7 +15,7 @@ class SoftwareDeveloper:
         self.code_frontend = [
             "Django",
             "Flask",
-            "Frappe Framework",
+            "Frappe",
             "Angular",
             "React",
             "Tailwind",
@@ -56,7 +56,7 @@ me.say_hi()
 ![Static Badge](https://img.shields.io/badge/React-blue?logo=react)
 ![Static Badge](https://img.shields.io/badge/Docker-black?logo=docker)
 ![Static Badge](https://img.shields.io/badge/Tailwind-space?logo=tailwindcss)
-![Static Badge](https://img.shields.io/badge/Bootstrap-azure?logo=bootstrap)
+![Static Badge](https://img.shields.io/badge/Bootstrap-cobalt?logo=bootstrap)
 ![Static Badge](https://img.shields.io/badge/Linux-black?logo=linux)
 
 
