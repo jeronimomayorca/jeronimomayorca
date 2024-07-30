@@ -48,14 +48,15 @@ me.say_hi()
 
 ![Static Badge](https://img.shields.io/badge/Python-yellow?logo=python)
 ![Static Badge](https://img.shields.io/badge/Django-green?logo=django)
-![Static Badge](https://img.shields.io/badge/Windows-blue?logo=windows)
-![Static Badge](https://img.shields.io/badge/Linux-black?logo=linux)
+![Static Badge](https://img.shields.io/badge/Flask-gray?logo=flask)
 ![Static Badge](https://img.shields.io/badge/Angular-red?logo=angular)
 ![Static Badge](https://img.shields.io/badge/React-blue?logo=react)
-![Static Badge](https://img.shields.io/badge/PHP-gray?logo=php)
 ![Static Badge](https://img.shields.io/badge/JavaScript-gray?logo=javascript)
 ![Static Badge](https://img.shields.io/badge/TypeScript-gray?logo=typescript)
-![Static Badge](https://img.shields.io/badge/Bootstrap-gray?logo=bootstrap)
+![Static Badge](https://img.shields.io/badge/Tailwind-cyan?logo=tailwind)
+![Static Badge](https://img.shields.io/badge/Bootstrap-azure?logo=bootstrap)
+![Static Badge](https://img.shields.io/badge/Windows-blue?logo=windows)
+![Static Badge](https://img.shields.io/badge/Linux-black?logo=linux)
 
 
 
