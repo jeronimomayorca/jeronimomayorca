@@ -46,10 +46,10 @@ me.say_hi()
 
 ## 🔧 Tools
 
-![Static Badge](https://img.shields.io/badge/Python-Code-yellow?logo=python)
-![Static Badge](https://img.shields.io/badge/Django-Tools-green?logo=django)
+![Static Badge](https://img.shields.io/badge/Python-yellow?logo=python)
+![Static Badge](https://img.shields.io/badge/Django-green?logo=django)
 ![Static Badge](https://img.shields.io/badge/Windows-blue?logo=windows)
-![Static Badge](https://img.shields.io/badge/Linux-black?logo=windows)
+![Static Badge](https://img.shields.io/badge/Linux-black?logo=linux)
 ![Static Badge](https://img.shields.io/badge/Angular-red?logo=angular)
 ![Static Badge](https://img.shields.io/badge/PHP-gray?logo=php)
 ![Static Badge](https://img.shields.io/badge/JavaScript-gray?logo=javascript)
