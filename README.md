@@ -13,20 +13,21 @@ class SoftwareDeveloper:
         self.language_spoken = ["es_CO", "en_US"]
 
         self.code_frontend = [
-            "Bootstrap",
-            "Tailwind"
-            "Frappe Framework",
             "Django",
+            "Flask",
+            "Frappe Framework",
             "Angular",
             "React"
+            "Tailwind"
+            "Bootstrap",
         ]
 
         self.code_backend = [
+            "Python",
+            "Typescript",
+            "JavaScript",
             "Java"
             "PHP",
-            "JavaScript",
-            "Typescript",
-            "Python",
         ]
 
         self.interests = [
