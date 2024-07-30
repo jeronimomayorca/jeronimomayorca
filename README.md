@@ -19,23 +19,24 @@ class SoftwareDeveloper:
             "Angular",
             "React",
             "Tailwind",
-            "Bootstrap",
+            "Bootstrap"
         ]
 
         self.code_backend = [
             "Python",
             "Typescript",
             "JavaScript",
-            "Docker",
             "Java",
             "PHP",
+            "Docker",
+            "NestJS"
         ]
 
         self.interests = [
             "Software Engineering",
             "Coding",
             "Tech",
-            "Best practices",
+            "Best practices"
         ]
 
     def say_hi(self):
