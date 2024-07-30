@@ -47,16 +47,16 @@ me.say_hi()
 ## 🔧 Tools
 
 ![Static Badge](https://img.shields.io/badge/Python-yellow?logo=python)
+![Static Badge](https://img.shields.io/badge/TypeScript-gray?logo=typescript)
+![Static Badge](https://img.shields.io/badge/JavaScript-gray?logo=javascript)
 ![Static Badge](https://img.shields.io/badge/Django-green?logo=django)
 ![Static Badge](https://img.shields.io/badge/Flask-gray?logo=flask)
 ![Static Badge](https://img.shields.io/badge/Angular-red?logo=angular)
 ![Static Badge](https://img.shields.io/badge/React-blue?logo=react)
-![Static Badge](https://img.shields.io/badge/JavaScript-gray?logo=javascript)
-![Static Badge](https://img.shields.io/badge/TypeScript-gray?logo=typescript)
 ![Static Badge](https://img.shields.io/badge/Tailwind-space?logo=tailwindcss)
 ![Static Badge](https://img.shields.io/badge/Bootstrap-azure?logo=bootstrap)
-![Static Badge](https://img.shields.io/badge/Windows-blue?logo=windows)
 ![Static Badge](https://img.shields.io/badge/Linux-black?logo=linux)
+![Static Badge](https://img.shields.io/badge/Docker-black?logo=docker)
 
 
 
