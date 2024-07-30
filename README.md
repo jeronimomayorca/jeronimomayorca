@@ -47,26 +47,33 @@ me.say_hi()
 
 ## 🔧 Tools
 
-![Static Badge](https://img.shields.io/badge/Python-yellow?logo=python)
-![Static Badge](https://img.shields.io/badge/TypeScript-white?logo=typescript)
-![Static Badge](https://img.shields.io/badge/JavaScript-blue?logo=javascript)
+### 👨🏼‍💻 Front-end
+
 ![Static Badge](https://img.shields.io/badge/Django-space?logo=django)
 ![Static Badge](https://img.shields.io/badge/Flask-gray?logo=flask)
 ![Static Badge](https://img.shields.io/badge/Angular-red?logo=angular)
 ![Static Badge](https://img.shields.io/badge/React-blue?logo=react)
-![Static Badge](https://img.shields.io/badge/Docker-black?logo=docker)
-![Static Badge](https://img.shields.io/badge/Tailwind-green?logo=tailwindcss)
+![Static Badge](https://img.shields.io/badge/Tailwind-black?logo=tailwindcss)
 ![Static Badge](https://img.shields.io/badge/Bootstrap-cobalt?logo=bootstrap)
-![Static Badge](https://img.shields.io/badge/Linux-black?logo=linux)
 
-## 🔧 Databases
+### ⚙️ Back-end
+
+![Static Badge](https://img.shields.io/badge/Python-yellow?logo=python)
+![Static Badge](https://img.shields.io/badge/TypeScript-white?logo=typescript)
+![Static Badge](https://img.shields.io/badge/JavaScript-blue?logo=javascript)
+![Static Badge](https://img.shields.io/badge/Docker-black?logo=docker)
+
+### 📊 Databases
 
 ![Static Badge](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
 ![Static Badge](https://img.shields.io/badge/SQLite-blue?logo=sqlite)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-gray?logo=postgresql)
 ![Static Badge](https://img.shields.io/badge/MySQL-grey?logo=mysql)
 
+### 💻 Operating systems
 
+![Static Badge](https://img.shields.io/badge/Linux-black?logo=linux)
+![Static Badge](https://img.shields.io/badge/Windows-black?logo=windows)
 
 
 
