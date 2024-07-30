@@ -63,8 +63,8 @@ me.say_hi()
 
 ![Static Badge](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
 ![Static Badge](https://img.shields.io/badge/SQLite-blue?logo=sqlite)
-![Static Badge](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
-![Static Badge](https://img.shields.io/badge/MySQL-blue?logo=mysql)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-gray?logo=postgresql)
+![Static Badge](https://img.shields.io/badge/MySQL-grey?logo=mysql)
 
 
 
