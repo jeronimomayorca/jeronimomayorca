@@ -59,6 +59,14 @@ me.say_hi()
 ![Static Badge](https://img.shields.io/badge/Bootstrap-cobalt?logo=bootstrap)
 ![Static Badge](https://img.shields.io/badge/Linux-black?logo=linux)
 
+## 🔧 Databases
+
+![Static Badge](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
+![Static Badge](https://img.shields.io/badge/SQLite-blue?logo=sqlite)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
+![Static Badge](https://img.shields.io/badge/MySQL-blue?logo=mysql)
+
+
 
 
 
