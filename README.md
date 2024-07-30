@@ -17,8 +17,8 @@ class SoftwareDeveloper:
             "Flask",
             "Frappe Framework",
             "Angular",
-            "React"
-            "Tailwind"
+            "React",
+            "Tailwind",
             "Bootstrap",
         ]
 
@@ -26,7 +26,7 @@ class SoftwareDeveloper:
             "Python",
             "Typescript",
             "JavaScript",
-            "Java"
+            "Java",
             "PHP",
         ]
 
@@ -46,13 +46,13 @@ me.say_hi()
 
 ## 🔧 Tools
 
-![Static Badge](https://img.shields.io/badge/Windows-OS-gray?logo=windows)
 ![Static Badge](https://img.shields.io/badge/Python-Code-gray?logo=python)
+![Static Badge](https://img.shields.io/badge/Django-Tools-gray?logo=django)
+![Static Badge](https://img.shields.io/badge/Windows-OS-gray?logo=windows)
+![Static Badge](https://img.shields.io/badge/Angular-Tools-gray?logo=angular)
 ![Static Badge](https://img.shields.io/badge/PHP-Code-gray?logo=php)
 ![Static Badge](https://img.shields.io/badge/JavaScript-Code-gray?logo=javascript)
 ![Static Badge](https://img.shields.io/badge/TypeScript-Code-gray?logo=typescript)
-![Static Badge](https://img.shields.io/badge/Angular-Tools-gray?logo=angular)
-![Static Badge](https://img.shields.io/badge/Django-Tools-gray?logo=django)
 ![Static Badge](https://img.shields.io/badge/Bootstrap-Tools-gray?logo=bootstrap)
 
 
