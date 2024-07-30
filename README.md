@@ -62,6 +62,7 @@ me.say_hi()
 ![Static Badge](https://img.shields.io/badge/Python-yellow?logo=python)
 ![Static Badge](https://img.shields.io/badge/TypeScript-white?logo=typescript)
 ![Static Badge](https://img.shields.io/badge/JavaScript-blue?logo=javascript)
+![Static Badge](https://img.shields.io/badge/NestJS-red?logo=nestjs)
 ![Static Badge](https://img.shields.io/badge/Docker-black?logo=docker)
 
 ### 📊 Databases
@@ -69,7 +70,7 @@ me.say_hi()
 ![Static Badge](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
 ![Static Badge](https://img.shields.io/badge/SQLite-blue?logo=sqlite)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-gray?logo=postgresql)
-![Static Badge](https://img.shields.io/badge/MySQL-grey?logo=mysql)
+![Static Badge](https://img.shields.io/badge/MySQL-black?logo=mysql)
 
 ### 💻 Operating systems
 
