@@ -26,6 +26,7 @@ class SoftwareDeveloper:
             "Python",
             "Typescript",
             "JavaScript",
+            "Docker",
             "Java",
             "PHP",
         ]
@@ -53,10 +54,10 @@ me.say_hi()
 ![Static Badge](https://img.shields.io/badge/Flask-gray?logo=flask)
 ![Static Badge](https://img.shields.io/badge/Angular-red?logo=angular)
 ![Static Badge](https://img.shields.io/badge/React-blue?logo=react)
+![Static Badge](https://img.shields.io/badge/Docker-black?logo=docker)
 ![Static Badge](https://img.shields.io/badge/Tailwind-space?logo=tailwindcss)
 ![Static Badge](https://img.shields.io/badge/Bootstrap-azure?logo=bootstrap)
 ![Static Badge](https://img.shields.io/badge/Linux-black?logo=linux)
-![Static Badge](https://img.shields.io/badge/Docker-black?logo=docker)
 
 
 
