@@ -48,16 +48,16 @@ me.say_hi()
 
 ## 🔧 Tools
 
-### 👨🏼‍💻 Front-end
+#### 👨🏼‍💻 Front-end
 
 ![Static Badge](https://img.shields.io/badge/Django-space?logo=django)
 ![Static Badge](https://img.shields.io/badge/Flask-gray?logo=flask)
 ![Static Badge](https://img.shields.io/badge/Angular-red?logo=angular)
 ![Static Badge](https://img.shields.io/badge/React-blue?logo=react)
 ![Static Badge](https://img.shields.io/badge/Tailwind-black?logo=tailwindcss)
-![Static Badge](https://img.shields.io/badge/Bootstrap-cobalt?logo=bootstrap)
+![Static Badge](https://img.shields.io/badge/Bootstrap-white?logo=bootstrap)
 
-### ⚙️ Back-end
+#### ⚙️ Back-end
 
 ![Static Badge](https://img.shields.io/badge/Python-yellow?logo=python)
 ![Static Badge](https://img.shields.io/badge/TypeScript-white?logo=typescript)
@@ -65,14 +65,14 @@ me.say_hi()
 ![Static Badge](https://img.shields.io/badge/NestJS-red?logo=nestjs)
 ![Static Badge](https://img.shields.io/badge/Docker-black?logo=docker)
 
-### 📊 Databases
+#### 📊 Databases
 
 ![Static Badge](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
 ![Static Badge](https://img.shields.io/badge/SQLite-blue?logo=sqlite)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-gray?logo=postgresql)
-![Static Badge](https://img.shields.io/badge/MySQL-black?logo=mysql)
+![Static Badge](https://img.shields.io/badge/MySQL-white?logo=mysql)
 
-### 💻 Operating systems
+## 💻 Operating systems
 
 ![Static Badge](https://img.shields.io/badge/Linux-black?logo=linux)
 ![Static Badge](https://img.shields.io/badge/Windows-black?logo=windows)
