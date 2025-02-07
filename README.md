@@ -76,8 +76,7 @@ me.say_hi()
 
 ## 💻 Operating systems
 
-![Static Badge](https://img.shields.io/badge/Linux-black?logo=linux)
-![Static Badge](https://img.shields.io/badge/Windows-black?logo=windows)
+![Static Badge](https://img.shields.io/badge/Linux-orange?logo=linux)
 
 
 
