@@ -17,6 +17,7 @@ class SoftwareDeveloper:
             "Flask",
             "Frappe",
             "Angular",
+            "Astro",
             "React",
             "Tailwind",
             "Bootstrap"
@@ -24,8 +25,8 @@ class SoftwareDeveloper:
 
         self.code_backend = [
             "Python",
-            "Typescript",
             "JavaScript",
+            "Typescript",
             "Java",
             "PHP",
             "Docker",
@@ -50,6 +51,7 @@ me.say_hi()
 
 #### 👨🏼‍💻 Front-end
 
+![Static Badge](https://img.shields.io/badge/Astro-violet?logo=astro)
 ![Static Badge](https://img.shields.io/badge/Django-space?logo=django)
 ![Static Badge](https://img.shields.io/badge/Flask-gray?logo=flask)
 ![Static Badge](https://img.shields.io/badge/Angular-red?logo=angular)
