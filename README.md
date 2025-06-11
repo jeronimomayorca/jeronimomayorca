@@ -34,7 +34,7 @@ class SoftwareDeveloper:
         ]
 
         self.interests = [
-            "Artificial Intelligence","
+            "Artificial Intelligence",
             "Software Engineering",
             "Coding",
             "Tech",
